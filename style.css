@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://from1to1000.ym.kiev.ua/marathon/specialnew/img/header_bg.jpg");
+}
+  
+.content {
+  font-family: 'TT Norms Regular';
+  font-size: 125%;
+  color: white;
+  width: 1024px;
+  text-align: center;
+  margin: auto;
+}
+  
+h2 {
+  color: #FFC600;
+}
+  
+img {
+  border-radius: 5%;
+  height: 300px;
+}
+  
+a {
+  color: #FFC600
+}
+  
